@@ -9,6 +9,19 @@ AtliQ Hardwares is a globally recognized leader in computer hardware, specializi
 - [x] Proficient in integrating supplementary data into existing data models.
 - [x] Adept at using DAX to create calculated columns.
 
+## Soft Skills
+- [x] Demonstrates advanced expertise in Sales and Finance Reports, transforming intricate financial data into practical and actionable insights.
+- [x] Creates visually engaging, user-focused reports with a strong emphasis on stakeholder comprehension and accessibility.
+- [x] Streamlines report generation by refining processes, driving improved efficiency and productivity.
+- [x] Establishes and executes structured strategies for report development, ensuring consistency, accuracy, and dependability in outcomes.
+- [x] Communicates insights and recommendations from data analysis with clarity and impact.
+
+
+
+
+
+
+
 
 
 
